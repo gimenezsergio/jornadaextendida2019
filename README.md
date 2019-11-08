@@ -23,7 +23,7 @@ Jose Torres
 Diego Carrizo
 
   Linkedin: https://www.linkedin.com/in/diego-carrizo-52943b195/	        
-  web site: https://diegocv254.glitch.me/
+  web site: https://diegox334-.glitch.me/
 ---------------------------------------------------------------------------------------------------------
 Cristopher Subelsa
 
