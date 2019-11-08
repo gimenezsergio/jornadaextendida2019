@@ -5,9 +5,9 @@ Como trabajo práctico final con los alumnos se está desarrollando una página 
 
 ---------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------
-Lucas Servin
-  https://www.linkedin.com/in/lucas-servian-39b654189/ 	    
-  https://lucas-servian-prueba1.glitch.me/
+Lucas Servian
+  Linkedin: https://www.linkedin.com/in/lucas-servian-39b654189/ 	    
+  web site: https://lucas-servian-prueba1.glitch.me/
 ---------------------------------------------------------------------------------------------------------
 Dana Limachi
   https://www.linkedin.com/in/dana-limachi-137685194/	        https://danalimachi.glitch.me/
