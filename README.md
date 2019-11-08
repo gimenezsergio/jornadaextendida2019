@@ -1,6 +1,6 @@
 CFP27 - Curso de Diseño Web
 
-Como trabajo práctico final con los alumnos se está desarrollando una página personal (modificando un template) a modo de CV, que puede ser vista en celulares, tabletas y notebooks. Además del alta de perfil en la red socail LinkedIn.
+Como trabajo práctico final con los alumnos se está desarrollando una página personal (modificando un template) a modo de CV, que puede ser visto en celulares, tabletas y notebooks. Además del alta de perfil en la red socail LinkedIn.
 
 
 ---------------------------------------------------------------------------------------------------------
