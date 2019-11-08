@@ -1,6 +1,6 @@
 CFP27 - Curso de Diseño Web
 
-Como trabajo práctico final con los alumnos se está desarrollando una página personal a modo de CV y alta de perfil en la red de  LinkedIn.
+Como trabajo práctico final con los alumnos se está desarrollando una página personal (modificando un template) a modo de CV, que puede ser vista en celulares, tabletas y notebooks. Además del alta de perfil en la red socail LinkedIn.
 
 
 ---------------------------------------------------------------------------------------------------------
@@ -16,7 +16,7 @@ Dana Limachi
   web site: https://danalimachi.glitch.me/
 ---------------------------------------------------------------------------------------------------------
 Jose Torres
-  web site:
+  web site: https://jose-torres.glitch.me/
   Linkedin: https://www.linkedin.com/in/jose-torres-233684194/	        
 ---------------------------------------------------------------------------------------------------------
 Diego Carrizo
