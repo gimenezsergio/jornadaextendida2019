@@ -5,7 +5,8 @@ Como trabajo práctico final con los alumnos se está desarrollando una página 
 
 ---------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------
-Lucas Servian
+Lucas Servian 
+
   Linkedin: https://www.linkedin.com/in/lucas-servian-39b654189/ 	    
   web site: https://lucas-servian-prueba1.glitch.me/
 ---------------------------------------------------------------------------------------------------------
