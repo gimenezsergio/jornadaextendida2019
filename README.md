@@ -11,15 +11,22 @@ Lucas Servian
   web site: https://lucas-servian-prueba1.glitch.me/
 ---------------------------------------------------------------------------------------------------------
 Dana Limachi
-  https://www.linkedin.com/in/dana-limachi-137685194/	        https://danalimachi.glitch.me/
+
+  Linkedin: https://www.linkedin.com/in/dana-limachi-137685194/	        
+  web site: https://danalimachi.glitch.me/
 ---------------------------------------------------------------------------------------------------------
 Jose Torres
-  https://www.linkedin.com/in/jose-torres-233684194/	        
+  web site:
+  Linkedin: https://www.linkedin.com/in/jose-torres-233684194/	        
 ---------------------------------------------------------------------------------------------------------
 Diego Carrizo
-  https://www.linkedin.com/in/diego-carrizo-52943b195/	        https://diegocv254.glitch.me/
+
+  Linkedin: https://www.linkedin.com/in/diego-carrizo-52943b195/	        
+  web site: https://diegocv254.glitch.me/
 ---------------------------------------------------------------------------------------------------------
 Cristopher Subelsa
-  https://www.linkedin.com/in/cristopher-subelsa-54243b195/	  https://cristopher-rol.glitch.me/
+
+  Linkedin:: https://www.linkedin.com/in/cristopher-subelsa-54243b195/	  
+  web site: https://cristopher-rol.glitch.me/
 ---------------------------------------------------------------------------------------------------------
 
